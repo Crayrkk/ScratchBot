@@ -1,0 +1,20 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="s4d_login" id="nw`F[sNLf;LNX5:hBm!+" x="34" y="-1499">
+    <value name="TOKEN">
+      <block type="text" id="VO}d8j,(5H14qK!3(mXu">
+        <field name="TEXT">MTA3NDY2NzY4NzA4NDU3Njc4MA.Gfe5Wu.3geOeW_np9RE-pehlMXElEnrogC70rket6pNzA</field>
+      </block>
+    </value>
+  </block>
+  <block type="s4d_on_connected" id="SO,s#R@mW7Si1bhx#20q" x="34" y="-1404">
+    <statement name="STATEMENTS">
+      <block type="s4d_set_bot_game" id="(W!E=#[CL|zZ4AFdpFv5">
+        <value name="GAME">
+          <block type="text" id="[]aetPGO#tC4Y(*T)^R*">
+            <field name="TEXT">Caré</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
